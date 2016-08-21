@@ -1,1 +1,1 @@
-# android-parse-simple-chat
+Simple Chat Client Using Parse
