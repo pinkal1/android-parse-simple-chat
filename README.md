@@ -1,4 +1,5 @@
 Simple Chat Client Using Parse
+
 The sample code explains how to build a very simple chat application in Android using Parse backend-as-a-service.
 
 Note: This chat application is by no means a fully-featured or production ready chat function. This tutorial is an illustration of how to quickly build an app using Parse.
